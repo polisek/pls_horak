@@ -8,7 +8,6 @@ exports.ox_target:addSphereZone({
     options = {
         {
             name = 'sphere',
-            event = 'ox_target:debug',
             icon = 'fa-solid fa-hand',
             label = 'Vzít hořák',
             canInteract = function(entity, distance, coords, name)
@@ -32,7 +31,6 @@ exports.ox_target:addSphereZone({
         },
         {
             name = 'sphere',
-            event = 'ox_target:debug',
             icon = 'fa-solid fa-hand',
             label = 'Vrátit hořák',
             canInteract = function(entity, distance, coords, name)
