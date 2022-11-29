@@ -1,2 +1,2 @@
-# pls_horak
+# Hořák
 For fun
